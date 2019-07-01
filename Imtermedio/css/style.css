@@ -1,0 +1,25 @@
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+.brand-logo img{
+	height: 60px;
+}
+
+h3{
+	font-family: 'Oswald', sans-serif;
+}
+.texto{
+  color: #04050D;
+
+ font-family: Georgia, Serif;
+}
+
+
+
